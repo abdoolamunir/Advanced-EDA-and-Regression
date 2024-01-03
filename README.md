@@ -1,4 +1,4 @@
-# Adv EDA + Regression
+# Advanced EDA + Regression (Linear, Lasso, SVR & Random Forest)
 
 ### **Objective:**
 
