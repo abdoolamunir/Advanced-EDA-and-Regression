@@ -1,4 +1,4 @@
-# 2- Adv EDA + Regression
+# Adv EDA + Regression
 
 ### **Objective:**
 
